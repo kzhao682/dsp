@@ -89,6 +89,11 @@ vim will be my preferred choice of terminal editor. I want to become familiar wi
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I will use Atom as my graphical editor. This has been the editor I have been using when I first started learning Python and I have enjoyed the many features of the editor. Some interesting features are the integration with Github and the package ecosystem.
 
+Some useful keyboard shortcuts are:
+-open command palette ⌘-⇧-p
+-convert spaces to tabs ⌥-⌘-]
+
+I customized my editor using a "One Dark" and "Solarized Dark" theme in order to keep the editor a distinct shade of color than other windows running on my computer.
  
