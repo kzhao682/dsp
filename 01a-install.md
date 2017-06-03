@@ -49,6 +49,7 @@ cross-platform.
 Did you install Python 2 or 3? Why?  
 
 I installed Python 3 because it is compatible with the HackerRank pre-work. It is also more useful to keep up-to-date with the newest technology trends.
+
 ---
 
 ### Q2. Which Python Version Installed   
