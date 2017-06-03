@@ -93,9 +93,8 @@ I will use Atom as my graphical editor. This has been the editor I have been usi
 
 Some useful keyboard shortcuts are:
 
-*open command palette ⌘-⇧-p
-
-*convert spaces to tabs ⌥-⌘-]
+* open command palette ⌘-⇧-p
+* convert spaces to tabs ⌥-⌘-]
 
 I customized my editor using a "One Dark" and "Solarized Dark" theme in order to keep the editor a distinct shade of color than other windows running on my computer.
  
