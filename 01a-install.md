@@ -55,7 +55,7 @@ I installed Python 3 because it is compatible with the HackerRank pre-work. It i
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
-You can check the version of Python installed on an unfamiliar computer by typing `python --version` on the command line.
+You can check the version of Python installed on an unfamiliar computer by typing `python --version` on the command line. 
 
  
 
