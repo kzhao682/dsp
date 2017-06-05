@@ -78,7 +78,15 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+`xargs` is used to construct argument lists and execute utility. It reads space, tab, newline, and end-of-file delimited strings from standard input and executes utility with strings as arguments.
+
+The following is an example of xargs in order to display stdin in rows of two:
+```
+$echo 1 2 3 4 5 6 | xargs -n 2
+1 2
+3 4
+5 6
+```
 
  
 
