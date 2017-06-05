@@ -19,7 +19,24 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+* pwd: show current working directory path
+* mkdir: creating a directory
+* rmdir: deleting a directory
+* touch: creating an empty file
+* rm: deleting a file
+* mv: rename or move a file or directory
+* ls -a: listing hidden files
+* cp: copying a file from one directory to another
+* less: page through a file
+* cat: print the whole file
+* find: find files
+* grep: find things inside files
+* man: read a manual page
+* exit: exit the shell
+* $ | $: pipes left command to right
+* $ < $: redirect input of right to left
+* $ > $: redirect input of left to right
+* $ >> $: append output of left to file on right
 
 ---
 
