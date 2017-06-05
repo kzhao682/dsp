@@ -19,24 +19,24 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-* pwd: show current working directory path
-* mkdir: creating a directory
-* rmdir: deleting a directory
-* touch: creating an empty file
-* rm: deleting a file
-* mv: rename or move a file or directory
-* ls -a: listing hidden files
-* cp: copying a file from one directory to another
-* less: page through a file
-* cat: print the whole file
-* find: find files
-* grep: find things inside files
-* man: read a manual page
-* exit: exit the shell
-* $ | $: pipes left command to right
-* $ < $: redirect input of right to left
-* $ > $: redirect input of left to right
-* $ >> $: append output of left to file on right
+* `pwd`: show current working directory path
+* `mkdir`: creating a directory
+* `rmdir`: deleting a directory
+* `touch`: creating an empty file
+* `rm`: deleting a file
+* `mv`: rename or move a file or directory
+* `ls -a`: listing hidden files
+* `cp`: copying a file from one directory to another
+* `less`: page through a file
+* `cat`: print the whole file
+* `find`: find files
+* `grep`: find things inside files
+* `man`: read a manual page
+* `exit`: exit the shell
+* `$ | $`: pipes left command to right
+* `$ < $`: redirect input of right to left
+* `$ > $`: redirect input of left to right
+* `$ >> $`: append output of left to file on right
 
 ---
 
@@ -51,13 +51,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-* ls: list directory contents
-* ls -a: include entries whose names begin with a dot (.)
-* ls -l: list in long format
-* ls -lh: list in long format using unit suffixes: Byte, Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte, etc.
-* ls -lah: list all entries including names that begin with a dot (.) in long format using unit suffixes
-* ls -t: list sorted directory contents in long format by time modified
-* ls -Glp: list directory in long format with colorized output and a slash ('/') after each directory
+* `ls`: list directory contents
+* `ls -a`: include entries whose names begin with a dot (.)
+* `ls -l`: list in long format
+* `ls -lh`: list in long format using unit suffixes: Byte, Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte, etc.
+* `ls -lah`: list all entries including names that begin with a dot (.) in long format using unit suffixes
+* `ls -t`: list sorted directory contents in long format by time modified
+* `ls -Glp`: list directory in long format with colorized output and a slash ('/') after each directory
 
 
 ---
@@ -66,11 +66,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-* ls -1: list each directory content on a line
-* ls -c: list directory contents by timestamp
-* ls -i: list inode for each directory content
-* ls -m: list directory contents as comma-separated list
-* ls -u: list directory contents by file access time
+* `ls -1`: list each directory content on a line
+* `ls -c`: list directory contents by timestamp
+* `ls -i`: list inode for each directory content
+* `ls -m`: list directory contents as comma-separated list
+* `ls -u`: list directory contents by file access time
 
 ---
 
