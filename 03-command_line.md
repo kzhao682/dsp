@@ -51,7 +51,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+* ls: list directory contents
+* ls -a: include entries whose names begin with a dot (.)
+* ls -l: list in long format
+* ls -lh: list in long format using unit suffixes: Byte, Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte, etc.
+* ls -lah: list all entries including names that begin with a dot (.) in long format using unit suffixes
+* ls -t: list sorted directory contents in long format by time modified
+* ls -Glp: list directory in long format with colorized output and a slash ('/') after each directory
+
 
 ---
 
