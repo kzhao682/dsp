@@ -12,8 +12,16 @@ For quick and easy interactive practice with Python, many people enjoy [Codecade
 
 How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+Python list and tuples are both sequence of values that can be any type and indexed by integers. The primary difference is tuples are immutable, so in order to modify a tuple, it must replaced with another tuple.
+```
+Example:
+>>> t = ('a', 'b', 'c', 'd', 'e')
+>>> t[0] = 'A' #returns an error because tuples are immutable
+>>> t = ('A',) + t[1:] #replace tuple with another tuple
+>>> t
+('A', 'b', 'c', 'd', 'e')
+```
+Since dictionaries are implemented using a hashtable, the keys must be hashable. For this reason, tuples but not lists work as keys in dictionaries.
 ---
 
 ### Q2. Lists &amp; Sets
