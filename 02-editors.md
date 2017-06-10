@@ -83,7 +83,7 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 >> vim will be my preferred choice of terminal editor. I want to become familiar with this terminal editor because it is the standard for many systems. I would like to jump straight into work rather than unnecessarily learning new basic tools that I could have learned from the beginning.
 
---
+---
 
 ### Q3. Graphical Editor
 
