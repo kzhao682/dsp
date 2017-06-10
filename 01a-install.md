@@ -48,14 +48,14 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
-I installed Python 3 because it is compatible with the HackerRank pre-work. It is also more useful to keep up-to-date with the newest technology trends.
+>> I installed Python 3 because it is compatible with the HackerRank pre-work. It is also more useful to keep up-to-date with the newest technology trends.
 
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
-You can check the version of Python installed on an unfamiliar computer by typing `python --version` on the command line. 
+>> You can check the version of Python installed on an unfamiliar computer by typing `python --version` on the command line. 
 
  
 
