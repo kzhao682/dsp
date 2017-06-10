@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
-vim will be my preferred choice of terminal editor. I want to become familiar with this terminal editor because it is the standard for many systems. I would like to jump straight into work rather than unnecessarily learning new basic tools that I could have learned from the beginning.
+>> vim will be my preferred choice of terminal editor. I want to become familiar with this terminal editor because it is the standard for many systems. I would like to jump straight into work rather than unnecessarily learning new basic tools that I could have learned from the beginning.
 
 --
 
@@ -89,7 +89,7 @@ vim will be my preferred choice of terminal editor. I want to become familiar wi
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
-I will use Atom as my graphical editor. This has been the editor I have been using when I first started learning Python and I have enjoyed the many features of the editor. Some interesting features are the integration with Github and the package ecosystem.
+>> I will use Atom as my graphical editor. This has been the editor I have been using when I first started learning Python and I have enjoyed the many features of the editor. Some interesting features are the integration with Github and the package ecosystem.
 
 Some useful keyboard shortcuts are:
 
