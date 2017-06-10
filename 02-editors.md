@@ -91,10 +91,10 @@ What graphical editor will you use? How did you make your decision? What are som
 
 >> I will use Atom as my graphical editor. This has been the editor I have been using when I first started learning Python and I have enjoyed the many features of the editor. Some interesting features are the integration with Github and the package ecosystem.
 
-Some useful keyboard shortcuts are:
+>> Some useful keyboard shortcuts are:
 
 * open command palette ⌘-⇧-p
 * convert spaces to tabs ⌥-⌘-]
 
-I customized my editor using a "One Dark" and "Solarized Dark" theme in order to keep the editor a distinct shade of color than other windows running on my computer.
+>> I customized my editor using a "One Dark" and "Solarized Dark" theme in order to keep the editor a distinct shade of color than other windows running on my computer.
  
