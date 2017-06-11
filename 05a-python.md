@@ -12,7 +12,7 @@ For quick and easy interactive practice with Python, many people enjoy [Codecade
 
 >> How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
-Python list and tuples are both sequence of values that can be any type and indexed by integers. The primary difference is tuples are immutable, so in order to modify a tuple, it must replaced with another tuple.
+>> Python list and tuples are both sequence of values that can be any type and indexed by integers. The primary difference is tuples are immutable, so in order to modify a tuple, it must replaced with another tuple.
 ```
 Example:
 >>> t = ('a', 'b', 'c', 'd', 'e')
