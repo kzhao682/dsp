@@ -21,7 +21,9 @@ Example:
 >>> t
 ('A', 'b', 'c', 'd', 'e')
 ```
-Since dictionaries are implemented using a hashtable, the keys must be hashable. For this reason, tuples but not lists work as keys in dictionaries.
+>> Since dictionaries are implemented using a hashtable, the keys must be hashable. For this reason, tuples but not lists work as keys in 
+dictionaries.
+
 ---
 
 ### Q2. Lists &amp; Sets
