@@ -30,7 +30,18 @@ dictionaries.
 
 How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Both Python lists and sets are used to store values, but are used in different cases. Lists keep the order in which the values are entered, but sets automatically arrange the values. Sets require the items to be hashable, but lists can have non-hashable items. Sets are much more efficient in finding an element since it orders all the values and eliminates duplicates.
+```
+#example of sets to show class test scores
+>>> my_scores = {88, 64, 84, 88, 86, 92, 84, 84}
+>>> print(my_scores)
+{64, 84, 86, 88, 92}
+
+#example of lists to show average temperature during the week
+>>> my_temperature = [76, 70, 72, 72, 74, 76, 74]
+>>> print(my_temperature)
+[76, 70, 72, 72, 74, 76, 74]
+```
 
 ---
 
