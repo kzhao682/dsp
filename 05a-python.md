@@ -30,7 +30,7 @@ dictionaries.
 
 How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
->> Both Python lists and sets are used to store values, but are used in different cases. Lists keep the order in which the values are entered, but sets automatically arrange the values. Sets require the items to be hashable, but lists can have non-hashable items. Sets are much more efficient in finding an element since it orders all the values and eliminates duplicates.
+>> Both Python lists and sets are used to store values, but are used in different cases. Lists keep the order in which the values are entered, but sets automatically arrange the values. Sets require the items to be hashable, but lists can have non-hashable items. Sets are much more efficient in finding an element since it eliminates duplicates.
 ```
 #example of sets to show class test scores
 >>> my_scores = {88, 64, 84, 88, 86, 92, 84, 84}
@@ -63,7 +63,30 @@ Describe Python's `lambda`. What is it, and what is it used for? Give at least o
 
 Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> List comprehensions iterate through a sequence and return lists more concisely in one line. Map returns elements in a new format, while filter returns only certain elements that reach a criteria in a list. List comprehensions can easily be used to replicate the functions of map and filter with much simpler syntax. 
+
+```
+Maps:
+words = ['apple', 'banana', 'orange', 'cherry', 'blueberry']
+return [i.capitalize for i in words]
+#[Apple, Banana, Orange, Cherry, Blueberry]
+
+Filter:
+num = [23, 20, 40, 45, 38, 35]
+return [i for i in num if i%5 == 0]
+#[20, 40, 45, 35]
+
+Set Comprehension:
+ages = [24, 50, 38, 45, 22, 24, 38, 50]
+return {i for i in ages if i>21}
+#{38, 45, 50, 22, 24}
+
+Dictionary Comprehension:
+states = ['California', 'New York', 'Illinois', 'Hawaii', 'Oregon']
+capital = ['Sacramento', 'Albany', 'Springfield', 'Honolulu', 'Salem']
+return {states[i]:capital[i] for i in range(len(states))}
+#{'California': 'Sacramento', 'New York': 'Albany', 'Illinois': 'Springfield', 'Hawaii': 'Honolulu', 'Oregon': 'Salem'}
+```
 
 ---
 
@@ -78,7 +101,7 @@ date_start = '01-02-2013'
 date_stop = '07-28-2015'
 ```
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE (answer will be in number of days)
+>> 937 days
 
 b.  
 ```
@@ -86,7 +109,7 @@ date_start = '12312013'
 date_stop = '05282015'  
 ```
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE (answer will be in number of days)
+>> 513 days
 
 c.  
 ```
@@ -94,7 +117,7 @@ date_start = '15-Jan-1994'
 date_stop = '14-Jul-2015'  
 ```
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE  (answer will be in number of days)
+>> 7850 days
 
 Place code in this file: [q5_datetime.py](python/q5_datetime.py)
 
