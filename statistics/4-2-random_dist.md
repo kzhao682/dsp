@@ -15,8 +15,10 @@ pmf = thinkstats2.Pmf(rand, label='Random')
 thinkplot.Pmf(pmf)
 thinkplot.Config(xlabel='Number', ylabel='Pmf')
 ```
+![Image of Pmf](img/stats4_2_1)
 ```
 cdf = thinkstats2.Cdf(rand, label='Random')
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Number', ylabel='Cdf')
 ```
+![Image of Cdf](img/stats4_2_2)
