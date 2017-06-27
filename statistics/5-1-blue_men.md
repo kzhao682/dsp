@@ -22,4 +22,4 @@ criteria = high - low
 low, high, criteria
 # (0.48963902786483265, 0.83238586549630633, 0.34274683763147368)
 ```
-34.3% of the U.S. male population is in the range to join Blue Man Group
+34.3% of the U.S. male population is in the range to join Blue Man Group.
