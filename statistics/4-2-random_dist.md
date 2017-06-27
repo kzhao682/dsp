@@ -16,6 +16,7 @@ thinkplot.Pmf(pmf)
 thinkplot.Config(xlabel='Number', ylabel='Pmf')
 ```
 ![Image of Pmf](img/stats4_2_1.png)
+
 This distribution fills up the entire area and does not depict much useful information other than the fact that everything has a 0.1% probability.
 ```
 cdf = thinkstats2.Cdf(rand, label='Random')
@@ -23,4 +24,5 @@ thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Number', ylabel='Cdf')
 ```
 ![Image of Cdf](img/stats4_2_2.png)
+
 This distribution is uniform and shows the probability of each number as they increase.
