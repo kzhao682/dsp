@@ -103,7 +103,10 @@ P(A|B) = (0.5)(1/300)/(0.00367) = 0.454
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> 
+Frequentist statistics use probabilities that represent long run frequencies with which events occur in a given population. Bayesian statistics use probabilities with the setting and situation in mind since each outcome might be different based on prior information.
+
+A frequentist statistician at an organic tomato farm would predict the yield of crops based on the numbers from the past few years on the exact farm. A Bayesian statistician would take into account other factors such as rainfall and sunlight when predicting the yield of crops.
 
 ---
 
