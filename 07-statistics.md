@@ -95,6 +95,7 @@ P(A) = probability of identical twin
 
 P(B) = probability of boy-boy twin
 
+P(A|B) = (0.5)(1/300)/(0.00367) = 0.454
 
 
 ---
