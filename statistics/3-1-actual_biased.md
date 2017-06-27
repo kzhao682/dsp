@@ -25,7 +25,7 @@ thinkplot.PrePlot(2)
 thinkplot.Pmfs([pmf, biased_pmf])
 thinkplot.Show(xlabel='Number of Children')
 ```
-![Image of distributions](img/Screen Shot 2017-06-26 at 9.32.02 PM.png)
+![Image of distributions] (/img/Screen Shot 2017-06-26 at 9.32.02 PM.png)
 
 ```
 # Means of pmfs
