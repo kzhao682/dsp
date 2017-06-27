@@ -10,11 +10,12 @@ import scipy.stats
 mu = 178
 sigma = 7.7
 dist = scipy.stats.norm(loc=mu, scale=sigma)
-type(dist)
 ```
 ```
 low = dist.cdf(177.8)
 high = dist.cdf(185.42)
 criteria = high - low
 low, high, criteria
+# (0.48963902786483265, 0.83238586549630633, 0.34274683763147368)
 ```
+34.3% of the U.S. male population is in the range to join Blue Man Group
