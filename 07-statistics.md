@@ -88,6 +88,10 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 >>
 P(A|B) = P(B|A)P(A)/P(B)
+A = probability of identical twin
+B = probability of any twin
+
+P(A|B) = (1)(1/300)/(3/100) = 1/9 = 0.111
 
 ---
 
