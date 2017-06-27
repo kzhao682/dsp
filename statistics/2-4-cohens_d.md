@@ -8,9 +8,9 @@ pregnancy length?
 First babies are lighter than others. Cohen's d size is 0.0887. This difference
 is about 3 times larger than the difference in pregnancy length.
 ```
-$ firsts.totalwgt_lb.mean(), others.totalwgt_lb.mean()
-(7.201094430437772, 7.325855614973262)
+firsts.totalwgt_lb.mean(), others.totalwgt_lb.mean()
+# (7.201094430437772, 7.325855614973262)
 
-$ CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
--0.088672927072602006
+CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
+# -0.088672927072602006
 ```
