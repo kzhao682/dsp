@@ -24,7 +24,10 @@ biased_pmf = BiasPmf(pmf, label='Biased')
 thinkplot.PrePlot(2)
 thinkplot.Pmfs([pmf, biased_pmf])
 thinkplot.Show(xlabel='Number of Children')
+```
 
+
+```
 # Means of pmfs
 print('Actual', pmf.Mean())
 print('Biased', biased_pmf.Mean())
