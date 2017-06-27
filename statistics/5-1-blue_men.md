@@ -14,7 +14,7 @@ mu = 178
 sigma = 7.7
 dist = scipy.stats.norm(loc=mu, scale=sigma)
 ```
-The acceptable standard for male who can join the Blue Man Group is calculated by finding the difference between the Cdf of 6'1'' and 5'10''.
+The acceptable standard for male who can join the Blue Man Group is calculated by finding the difference between the CDF of 6'1'' and 5'10''.
 ```
 low = dist.cdf(177.8)
 high = dist.cdf(185.42)
