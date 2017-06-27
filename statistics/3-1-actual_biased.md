@@ -7,6 +7,7 @@ Use the NSFG respondent variable NUMKDHH to construct the actual distribution fo
 Now compute the biased distribution we would see if we surveyed the children
 and asked them how many children under 18 (including themselves) are in
 their household.
+
 Plot the actual and biased distributions, and compute their means.
 
 ```
