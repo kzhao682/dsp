@@ -31,4 +31,7 @@ thinkplot.Show(xlabel='Number of Children')
 # Means of pmfs
 print('Actual', pmf.Mean())
 print('Biased', biased_pmf.Mean())
+
+#Actual 1.02420515504
+#Biased 2.40367910066
 ```
