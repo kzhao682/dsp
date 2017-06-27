@@ -25,8 +25,8 @@ thinkplot.PrePlot(2)
 thinkplot.Pmfs([pmf, biased_pmf])
 thinkplot.Show(xlabel='Number of Children')
 ```
-![Image of distributions](dsp/img/Screen Shot 2017-06-26 at 9.32.02 PM.png)
-
+![Image of distributions](dsp/img/ScreenShot2017-06-26at9.32.02PM.png)
+![fork](img/forking_repo.png)
 ```
 # Means of pmfs
 print('Actual', pmf.Mean())
